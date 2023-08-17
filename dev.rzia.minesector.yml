@@ -19,5 +19,5 @@ modules:
     sources:
       - type: git
         url: https://github.com/grassdne/minesector.git
-        tag: 1.1.4
-        commit: 483671f6f3f26efba9e6801e4b5d9b8b8f72413b
+        # tag: 1.1.5
+        commit: cb69e3b2de19a02d9f801a7394a4ffb714b9b1fa
